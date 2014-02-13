@@ -1,6 +1,6 @@
 把護照依部門放在 source 目錄，如
- source\地球處\何宗翰.jpg
- source\地球處\陳家豪.pdf
+ source\處長室\馬小九.jpg
+ source\經理室\陳阿扁.pdf
 
 執行go.sh 
 
